@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dwizio
+- 👀 I’m interested in research about data/probabilities
+- 🌱 I’m currently learning AI capabilities
